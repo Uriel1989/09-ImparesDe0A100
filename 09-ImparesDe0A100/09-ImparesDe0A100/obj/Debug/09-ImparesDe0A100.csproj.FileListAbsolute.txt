@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\09-ImparesDe0A100\09-ImparesDe0A100\bin\Debug\09-ImparesDe0A100.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\09-ImparesDe0A100\09-ImparesDe0A100\bin\Debug\09-ImparesDe0A100.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\09-ImparesDe0A100\09-ImparesDe0A100\obj\Debug\09-ImparesDe0A100.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\09-ImparesDe0A100\09-ImparesDe0A100\obj\Debug\09-ImparesDe0A100.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\09-ImparesDe0A100\09-ImparesDe0A100\obj\Debug\09-ImparesDe0A100.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\09-ImparesDe0A100\09-ImparesDe0A100\obj\Debug\09-ImparesDe0A100.pdb
